@@ -217,6 +217,7 @@ soln/thinkdsp.py
 soln/thinkdsp.html
 soln/thinkdsp_test.py
 examples/thinkdsp.py
+notebooks/thinkdsp.py
 scripts/suggested_commits.sh
 SKILLS.md
 plan.md
